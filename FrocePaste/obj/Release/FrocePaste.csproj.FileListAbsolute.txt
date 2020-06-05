@@ -1,0 +1,9 @@
+C:\Users\RaiseNorth\source\repos\FrocePaste\bin\Release\FrocePaste.exe
+C:\Users\RaiseNorth\source\repos\FrocePaste\bin\Release\FrocePaste.pdb
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.Form1.resources
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.Properties.Resources.resources
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.csproj.GenerateResource.cache
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.csproj.CoreCompileInputs.cache
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.exe
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.pdb
+C:\Users\RaiseNorth\source\repos\FrocePaste\obj\Release\FrocePaste.csprojAssemblyReference.cache
